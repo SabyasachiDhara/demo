@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="682.66669"
+   height="682.66669"
+   viewBox="0 0 682.66669 682.66669"
+   sodipodi:docname="Linkedin.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="m 3984.29,1312.58 c 0,-111.71 -93.09,-204.8 -214.1,-204.8 H 1340.51 c -121.02,0 -214.11,93.09 -214.11,204.8 v 2466.91 c 0,111.71 93.09,204.8 214.11,204.8 h 2429.68 c 121.01,0 214.1,-93.09 214.1,-204.8 V 1312.58 Z M 2560,5120 C 1145.02,5120 0,3974.98 0,2560 0,1145.02 1145.02,0 2560,0 3974.98,0 5120,1145.02 5120,2560 5120,3974.98 3974.98,5120 2560,5120"
+         style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+      <path
+         d="m 3053.38,2904.44 c -232.73,0 -335.13,-130.33 -390.98,-214.11 v 0 0 0 186.18 h -428.22 c 9.31,-121.02 0,-1293.96 0,-1293.96 h 428.22 v 726.1 c 0,37.24 0,74.47 18.62,102.4 27.93,74.48 102.4,158.26 223.41,158.26 158.27,0 214.11,-121.02 214.11,-297.89 v -698.19 h 428.23 v 744.73 c 0,400.3 -204.81,586.48 -493.39,586.48"
+         style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" />
+      <path
+         d="m 1778.04,3500.22 c -148.95,0 -242.04,-93.09 -242.04,-223.42 0,-121.02 93.09,-223.42 242.04,-223.42 v 0 c 148.94,0 242.03,102.4 242.03,223.42 0,130.33 -93.09,223.42 -242.03,223.42"
+         style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path16" />
+      <path
+         d="m 1563.93,2876.51 h 428.21 V 1582.55 h -428.21 v 1293.96"
+         style="fill:#2e2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path18" />
+    </g>
+  </g>
+</svg>
